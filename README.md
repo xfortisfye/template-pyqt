@@ -12,13 +12,13 @@ Currently incomplete.
 
 -----
 
-### start using QT Designer
+### QT Designer
 
 1. Throw a layout in the main window.
 2. Right click and select `Layout horizontally` or `Layout vertically`
 
 
-### generating resources file
+### Generate resource file
 ```bash
 pyrcc5 resources.qrc -o resources.py
 ```
